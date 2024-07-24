@@ -1,0 +1,103 @@
+[
+    {
+      "date": "2024-07-01",
+      "workoutDuration": 30,
+      "caloriesBurned": 200
+    },
+    {
+      "date": "2024-07-02",
+      "workoutDuration": 45,
+      "caloriesBurned": 300
+    },
+    {
+      "date": "2024-07-03",
+      "workoutDuration": 60,
+      "caloriesBurned": 400
+    },
+    {
+      "date": "2024-07-04",
+      "workoutDuration": 50,
+      "caloriesBurned": 350
+    },
+    {
+      "date": "2024-07-05",
+      "workoutDuration": 40,
+      "caloriesBurned": 250
+    },
+    {
+      "date": "2024-07-06",
+      "workoutDuration": 55,
+      "caloriesBurned": 380
+    },
+    {
+      "date": "2024-07-07",
+      "workoutDuration": 35,
+      "caloriesBurned": 220
+    },
+    {
+      "date": "2024-07-08",
+      "workoutDuration": 45,
+      "caloriesBurned": 310
+    },
+    {
+      "date": "2024-07-09",
+      "workoutDuration": 60,
+      "caloriesBurned": 420
+    },
+    {
+      "date": "2024-07-10",
+      "workoutDuration": 50,
+      "caloriesBurned": 360
+    },
+    {
+      "date": "2024-07-11",
+      "workoutDuration": 30,
+      "caloriesBurned": 210
+    },
+    {
+      "date": "2024-07-12",
+      "workoutDuration": 70,
+      "caloriesBurned": 500
+    },
+    {
+      "date": "2024-07-13",
+      "workoutDuration": 40,
+      "caloriesBurned": 280
+    },
+    {
+      "date": "2024-07-14",
+      "workoutDuration": 65,
+      "caloriesBurned": 450
+    },
+    {
+      "date": "2024-07-15",
+      "workoutDuration": 55,
+      "caloriesBurned": 390
+    },
+    {
+      "date": "2024-07-16",
+      "workoutDuration": 50,
+      "caloriesBurned": 370
+    },
+    {
+      "date": "2024-07-17",
+      "workoutDuration": 45,
+      "caloriesBurned": 330
+    },
+    {
+      "date": "2024-07-18",
+      "workoutDuration": 60,
+      "caloriesBurned": 440
+    },
+    {
+      "date": "2024-07-19",
+      "workoutDuration": 35,
+      "caloriesBurned": 240
+    },
+    {
+      "date": "2024-07-20",
+      "workoutDuration": 70,
+      "caloriesBurned": 510
+    }
+  ]
+  
